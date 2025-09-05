@@ -1,0 +1,113 @@
+# Cybersecurity Portfolio
+
+This repository contains hands-on exercises and labs from **TryHackMe** showcasing practical skills in Networking & Scanning, Penetration Testing, System Administration, Scripting & Automation, Security Operations, Malware & Threat Analysis.
+
+---
+
+## TryHackMe Labs
+
+### Room 1: [Offensive Security Intro]
+**Skills Practiced:**
+- Skill 1 (Gobuster)
+- Skill 2 (Terminal
+- Skill 3 (Virtual Machine)
+
+**Notes / Screenshots:**
+- Hack your first website (legally in a safe environment) and experience an ethical hacker's job.
+- Note  Might Pivot towards ethical hacking who knows
+
+**TryHackMe Room URL:** [https://tryhackme.com/room/offensivesecurityintro)
+
+---
+
+## TryHackMe Labs
+
+### Room 2: [Defensive Security Intro]
+**Skills Practiced:**
+- Skill 1 Threat Intelligence
+- Skill 2 Digital Forensics and Incident Response (DFIR)
+- Skill 3 Malware Analysis
+- Skill 4 Security Operations Center (SOC)
+- Skill 5 SIEM
+
+**Notes / Screenshots:**
+- different subfields (SOC, Threat Intelligence, Malware Analysis, and DFIR) and experienced firsthand how to deal with alerts in a simulated SIEM environment.
+- Tools SIEM
+
+**TryHackMe Room URL:** [https://tryhackme.com/room/defensivesecurityintro)
+
+---
+
+## TryHackMe Labs
+
+### Room 3: [Linux Fundamentals Part 1]
+**Skills Practiced:**
+- Skill 1 Linux
+- Skill 2 Ran some of the most fundamental commands
+- Skill 3  Powered up commands by learning about some of the important shell operators.
+
+**Notes / Screenshots:**
+- Interacted with linux for the first time and learned how to navigate the file system and even learned how to do it more efficent
+- This was a little overwhelming at first lol
+
+**TryHackMe Room URL:** [https://tryhackme.com/room/linuxfundamentalspart1)
+
+---
+
+## TryHackMe Labs
+
+### Room 4: [Python Basics]
+**Skills Practiced:**
+- Skill 1 Python
+- Skill 2 Variables
+- Skill 3 Loops
+- Skill 4 Functions
+- Skill 5 Data Structures
+- Skill 6 If statements
+- Skill 7 Files
+
+**Notes / Screenshots:**
+- Hands-on with Python and learned about the scripting programming language 
+- tools Code Editor/Python
+
+**TryHackMe Room URL:** [https://tryhackme.com/room/pythonbasics)
+
+---
+
+## TryHackMe Labs
+
+### Room 5: [Network Services]
+
+**Skills Practiced:**
+- Skill 1 SMB
+- Skill 2 Telnet
+- Skill 3 FTP
+
+**Notes / Screenshots:**
+- Learned about, then enumerated and exploited a variety of network services and misconfigurations
+- This one was really fun (sigh)
+
+**TryHackMe Room URL:** (https://tryhackme.com/room/networkservices)
+
+---
+
+## TryHackMe Labs
+
+### Room 6: [NMAP]
+**Skills Practiced:**
+- Skill 1 NMAP
+- Skill 2 TCP/SYN/UDP/NULL/FIN/XMAS scans
+- Skill 3 ICMP Network Scan
+- Skill 4 The Nmap Scripting Engine (NSE)
+- SKill 5 Firewall Evasion
+
+**Notes / Screenshots:**
+-  In depth look at scanning with Nmap
+- NMAP/NSE
+
+**TryHackMe Room URL:** (https://tryhackme.com/room/furthernmap)
+
+---
+
+## Profile Links
+- **TryHackMe Profile:** https://tryhackme.com/p/Faygoo  
